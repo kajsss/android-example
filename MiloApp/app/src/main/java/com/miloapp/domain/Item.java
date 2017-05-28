@@ -7,6 +7,6 @@ import lombok.Data;
 @Data
 @AllArgsConstructor
 public class Item {
-    String name;
+    String title;
     String description;
 }
