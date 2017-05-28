@@ -2,4 +2,4 @@
 Android sample &amp; study
 
 
-1. RecyclerVeiw & DragAndDrop
+1. RecyclerVeiw & CardView Example.
